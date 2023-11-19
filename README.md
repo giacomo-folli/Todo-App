@@ -1,4 +1,10 @@
+# Svelte project: Todo App 
+I built this project using Svelte, Supabase(DB and Auth) and Tailwind.
 
-=======
-Todo App built using Svelte, Supabase(DB and Auth) and Tailwind
->>>>>>> efd946836e4065b1625cf533e3389bf246e554bf
+This is a personal project built for fun and for educational purposes. :)
+
+# Auth page preview
+![Login page screenshot](src/lib/assets/login.png)
+
+# Main page preview
+![Main page screenshot](src/lib/assets/main.png)
